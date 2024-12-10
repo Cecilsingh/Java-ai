@@ -9,10 +9,11 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 import okhttp3.*;
 //Import standard java libraries
 import java.io.IOException;
+import java.util.Scanner;
 //Unused array imports
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
+
 
 //Main class
 public class Main {
